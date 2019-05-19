@@ -12,8 +12,8 @@ Los ficheros son los siguientes:
 
         - PrepareData: contiene el código para preparar los set de entrenamiento, validación y test.
         
-        - Evaluate: contiene el método usado para evaluar la predicción del DVH de un paciente como suma de las prediccciones de cada 
-        uno de sus cortes, y la comparación con el valor de DVH del plan original.
+        - Evaluate: contiene el método usado para evaluar la predicción del DVH de un paciente como suma de las
+        prediccciones de cada uno de sus cortes, y la comparación con el valor de DVH del plan original.
         
         - CheckPatientDVH: creación del DVH de cada pacientes.
         
